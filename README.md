@@ -1,6 +1,6 @@
 # "Fuck off EA App"
 
-[![Github All Releases](https://img.shields.io/github/downloads/p0358/Fuck_off_EA_App/total.svg)](https://github.com/p0358/Fuck_off_EA_App/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/total.svg)](https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/releases)
 
 English | [中文](README_zh-CN.md)
 
@@ -24,14 +24,14 @@ You need to have [Origin already installed](https://download.dm.origin.com/origi
 
 ### Automatically with the installer
 
-**[Download](https://github.com/p0358/Fuck_off_EA_App/releases/download/v3/Fuck_off_EA_App_installer.exe)** the installer and run it!
+**[Download](https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/releases/download/v3/Fuck_off_EA_App_installer.exe)** the installer and run it!
 
-![installer screenshot](https://github.com/p0358/Fuck_off_EA_App/assets/5182588/1ab48e7b-e160-4248-a59a-31eb25a5b764)
+![installer screenshot](https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/assets/5182588/1ab48e7b-e160-4248-a59a-31eb25a5b764)
 
 ### Or manually
 
 Alternatively, if you don't want to use the installer above:
-1. Go into [Releases section](https://github.com/p0358/Fuck_off_EA_App/releases) and grab the latest `version.dll` file
+1. Go into [Releases section](https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/releases) and grab the latest `version.dll` file
 2. Drop it into your Origin installation folder, by default `C:\Program Files (x86)\Origin`
 3. Restart Origin
 
@@ -91,7 +91,7 @@ Check out this issue for current status and directions: [#3](https://github.com/
 
 In short, you will need to override the setting for `version` DLL to run as `native, then built-in`, which can be accomplished through `winecfg` or the config of the particular tool you use (like Bottles), or by using the environment variable `WINEDLLOVERRIDES="version=n,b"` in launch options. Note that currently not everything seems to fully work...
 
-![native, then builtin](https://github.com/p0358/Fuck_off_EA_App/assets/5182588/7094bd2d-c8f9-4ec8-b841-ef7ff7c3afd6)
+![native, then builtin](https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible/assets/5182588/7094bd2d-c8f9-4ec8-b841-ef7ff7c3afd6)
 
 ### How to disable Origin updates just in case?
 
@@ -123,4 +123,4 @@ Yeah, the thing is open-sourced, and the actual DLL and installer in Releases se
 
 If you want to: https://www.paypal.me/p0358donate ¯\\_(ツ)_/¯
 
-[![Star History Chart](https://api.star-history.com/svg?repos=p0358/Fuck_off_EA_App&type=Date)](https://star-history.com/#p0358/Fuck_off_EA_App&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible&type=Date)](https://star-history.com/#ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible&Date)
