@@ -36,8 +36,8 @@ end
 
 dependencies.load()
 
-workspace "Fuck_off_EA_App-DLCUnlockerCompatible"
-startproject "Fuck_off_EA_App-DLCUnlockerCompatible"
+workspace "Fuck_off_EA_App"
+startproject "Fuck_off_EA_App"
 location "./build"
 objdir "%{wks.location}/obj"
 targetdir "%{wks.location}/bin/%{cfg.platform}-%{cfg.buildcfg}"
