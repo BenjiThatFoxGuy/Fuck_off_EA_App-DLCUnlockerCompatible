@@ -1,7 +1,7 @@
-#define MyAppName "the ""Fuck off EA App"" patch by p0358"
+#define MyAppName "the ""Fuck off EA App"" patch by p0358, patched by ddomino007 to be EA DLC Unlocker Compatible"
 ;#define MyAppVersion "1" -- specified on the command line
-#define MyAppPublisher "p0358"
-#define MyAppURL "https://github.com/p0358/Fuck_off_EA_App"
+#define MyAppPublisher "ddomino007"
+#define MyAppURL "https://github.com/ddomino007/Fuck_off_EA_App-DLCUnlockerCompatible"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
@@ -22,7 +22,7 @@ DisableProgramGroupPage=yes
 ;InfoBeforeFile=pre_install_info.txt
 DisableWelcomePage=yes
 ;InfoAfterFile=post_install_info.txt
-OutputBaseFilename=Fuck_off_EA_App_installer
+OutputBaseFilename=Fuck_off_EA_App-DLCUnlockerCompatible_installer
 OutputDir=.
 Compression=lzma
 SolidCompression=yes
