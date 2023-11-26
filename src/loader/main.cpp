@@ -81,7 +81,7 @@ void Init()
 {
     LoadProxiedLibrary(); // loads original `version.dll` to proxy the exported functions back to it
     FuckOffEAAppSetup(); // that function is located in the "Main" project
-    LoadLibraryA("anadius.dll");
+    LoadLibraryA("anadius.dll"); // load the EA DLC Unlocker 'version.dll' that you renamed
 }
 
 BOOL WINAPI DllMain(HINSTANCE hInstDLL, DWORD fdwReason, LPVOID lpvReserved)
